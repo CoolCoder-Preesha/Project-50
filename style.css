@@ -1,0 +1,28 @@
+h1{
+    color:darkmagenta;
+}
+
+h3{
+    color: rgba(206, 16, 177, 0.673);
+    size: 40px;
+}
+
+.header{
+    background-color: rgb(242, 188, 215);
+}
+
+.about{
+    -ms-flex-item-align: end;
+}
+
+ol{
+    color: rgb(115, 115, 208);
+}
+
+.us{
+    color: rgb(225, 121, 136);
+}
+
+.grid{
+    display: flex;
+}
